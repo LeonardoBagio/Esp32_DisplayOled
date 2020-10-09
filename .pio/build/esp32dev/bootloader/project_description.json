@@ -1,8 +1,8 @@
 {
     "project_name":       "bootloader",
     "project_path":       "C:/Users/leoba/.platformio/packages/framework-espidf/components/bootloader/subproject",
-    "build_dir":          "C:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/.pio/build/esp32dev/bootloader",
-    "config_file":        "C:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/sdkconfig",
+    "build_dir":          "C:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/.pio/build/esp32dev/bootloader",
+    "config_file":        "C:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/sdkconfig",
     "config_defaults":    "",
     "app_elf":            "bootloader.elf",
     "app_bin":            "bootloader.bin",

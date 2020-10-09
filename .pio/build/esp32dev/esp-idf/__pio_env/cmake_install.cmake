@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/.pio/build/esp32dev/__pio_env
+# Install script for directory: C:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/.pio/build/esp32dev/__pio_env
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -175,7 +175,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_main
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\leoba\.platformio\packages\tool-cmake\bin\cmake.exe -SC:\Users\leoba\.platformio\packages\framework-espidf\components\bootloader\subproject -BC:\Users\leoba\OneDrive\Documentos\PlatformIO\Projects\LeonardoBagioDisplay\.pio\build\esp32dev\bootloader
+  command = C:\Users\leoba\.platformio\packages\tool-cmake\bin\cmake.exe -SC:\Users\leoba\.platformio\packages\framework-espidf\components\bootloader\subproject -BC:\Users\leoba\OneDrive\Documentos\GitHub\Esp32_DisplayOled\.pio\build\esp32dev\bootloader
   description = Re-running CMake...
   generator = 1
 

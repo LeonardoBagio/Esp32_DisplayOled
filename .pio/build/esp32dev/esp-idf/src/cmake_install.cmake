@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/src
+# Install script for directory: C:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

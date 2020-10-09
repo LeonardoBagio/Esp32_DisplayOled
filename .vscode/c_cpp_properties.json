@@ -6,12 +6,12 @@
         {
             "name": "Win32",
             "includePath": [
-                "c:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/include",
-                "c:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/src",
-                "c:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/lib/u8g2",
+                "c:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/include",
+                "c:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/src",
+                "c:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/lib/u8g2",
                 "C:/Users/leoba/.platformio/packages/framework-espidf/components/xtensa/include",
                 "C:/Users/leoba/.platformio/packages/framework-espidf/components/xtensa/esp32/include",
-                "C:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/.pio/build/esp32dev/config",
+                "C:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/.pio/build/esp32dev/config",
                 "C:/Users/leoba/.platformio/packages/framework-espidf/components/newlib/platform_include",
                 "C:/Users/leoba/.platformio/packages/framework-espidf/components/freertos/include",
                 "C:/Users/leoba/.platformio/packages/framework-espidf/components/heap/include",
@@ -102,12 +102,12 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/include",
-                    "c:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/src",
-                    "c:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/lib/u8g2",
+                    "c:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/include",
+                    "c:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/src",
+                    "c:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/lib/u8g2",
                     "C:/Users/leoba/.platformio/packages/framework-espidf/components/xtensa/include",
                     "C:/Users/leoba/.platformio/packages/framework-espidf/components/xtensa/esp32/include",
-                    "C:/Users/leoba/OneDrive/Documentos/PlatformIO/Projects/LeonardoBagioDisplay/.pio/build/esp32dev/config",
+                    "C:/Users/leoba/OneDrive/Documentos/GitHub/Esp32_DisplayOled/.pio/build/esp32dev/config",
                     "C:/Users/leoba/.platformio/packages/framework-espidf/components/newlib/platform_include",
                     "C:/Users/leoba/.platformio/packages/framework-espidf/components/freertos/include",
                     "C:/Users/leoba/.platformio/packages/framework-espidf/components/heap/include",
