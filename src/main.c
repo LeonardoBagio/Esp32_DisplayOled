@@ -7,9 +7,6 @@
 #include "sdkconfig.h"
 #include "u8g2_esp32_hal.h"
 
-#define PIN_SDA 5
-#define PIN_SCL 4
-
 void app_main(void);
 int controla_selecao(int);
 char* primeiraLinha;
@@ -35,8 +32,8 @@ int controla_selecao(int selecao){
 
 void app_main(void) {
 	u8g2_esp32_hal_t u8g2_esp32_hal = U8G2_ESP32_HAL_DEFAULT;
-	u8g2_esp32_hal.sda = PIN_SDA;
-	u8g2_esp32_hal.scl = PIN_SCL;
+	u8g2_esp32_hal.sda = 5;
+	u8g2_esp32_hal.scl = 4;
 	u8g2_esp32_hal_init(u8g2_esp32_hal);
 
 	u8g2_Setup_ssd1306_i2c_128x32_univision_f(
