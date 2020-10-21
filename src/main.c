@@ -50,23 +50,23 @@ void app_main(void) {
 
 	while (true){
 		if (selecao == 0){
-			primeiraLinha = "BOA NOITE";
-			segundaLinha  = "VAG";
+			primeiraLinha = "DISPLAY";
+			segundaLinha  = "OLED";
 		}
 
 		if (selecao == 1){
-			primeiraLinha = "TUDO BEM";
-			segundaLinha  = "COM VOCE?";
+			primeiraLinha = "IOT";
+			segundaLinha  = "APLICADA";
 		}
 
 		if (selecao == 2){
-			primeiraLinha = "SEGUE O MEU";
-			segundaLinha  = "TRABALHO";
+			primeiraLinha = "LEONARDO";
+			segundaLinha  = "BAGIO";
 		}
 
 		if (selecao == 3){
-			primeiraLinha = "ATT";
-			segundaLinha  = "BAGIO";
+			primeiraLinha = ":-)";
+			segundaLinha  = "";
 		}
 
 		u8g2_SetFont(&u8g2, u8g2_font_ncenB12_tr);
